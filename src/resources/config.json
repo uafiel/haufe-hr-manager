@@ -1,7 +1,0 @@
-{
-  "pageInfo": {
-    "browserName": "firefox",
-    "baseURL": "https://recruitingapp-90185108.umantis.com/HiringManager/",
-    "waitTimeOut": "20"
-  }
-}

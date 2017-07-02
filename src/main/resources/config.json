@@ -1,0 +1,7 @@
+{
+  "pageInfo": {
+    "browserName": "chrome",
+    "baseURL": "https://recruitingapp-90185108.umantis.com/",
+    "waitTimeOut": "20"
+  }
+}

@@ -11,6 +11,7 @@ public class BrowserFactory {
 		WebDriver driver;
 		switch (browser.toLowerCase()) {
         	case "firefox":
+				System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
         		driver = new FirefoxDriver();
         		break;
         	case "ie":
